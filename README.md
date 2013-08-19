@@ -20,7 +20,7 @@ Ratsit::$packages = 'small 1';
 
 $Ratsit = new Ratsit;
 
-$response = $Ratsit->searchPerson();
+$response = $Ratsit->searchPerson('personal number');
 
 print_r( $response );
 ```
