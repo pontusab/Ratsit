@@ -1,8 +1,8 @@
 {
     "authors": [
         {
-            "email": "fkooman@tuxed.net",
-            "name": "Fran\u00e7ois Kooman",
+            "email": "info@wdlinkoping.se",
+            "name": "Pontus Abrahamsson",
             "role": "Developer"
         }
     ],
@@ -11,9 +11,9 @@
             "Ratsit\\": "src/"
         }
     },
-    "description": "Library for implementing OAuth 2.0 resource servers",
+    "description": "Library for implementing Ratsit API - Personal data search",
     "license": "Apache-2.0",
-    "name": "fkooman/php-oauth-lib-rs",
+    "name": "ratsit",
     "require": {
         "php": ">=5.3.3"
     }
