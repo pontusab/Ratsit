@@ -13,7 +13,7 @@
     },
     "description": "Library for implementing Ratsit API - Personal data search",
     "license": "Apache-2.0",
-    "name": "ratsit",
+    "name": "ratsit/ratsit",
     "require": {
         "php": ">=5.3.3"
     }
