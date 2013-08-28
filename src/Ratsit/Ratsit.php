@@ -87,7 +87,7 @@ class Ratsit
 					$personData 	= array_merge( $personInfo, $personnational );
 				}
 
-				return (object) $personData;
+				return json_encode( $personData );
 			}
 			else
 			{
